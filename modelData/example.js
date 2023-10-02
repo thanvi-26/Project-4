@@ -16,8 +16,8 @@ if (models === undefined) {
 
 models.exampleModel = function () {
   return {
-    name: "TECH BUDDIES",
-    motto:"When life gives you lemons, make lemonade.",
+    name: "Group 4",
+    motto:"Strive Together.",
   };
 
   
