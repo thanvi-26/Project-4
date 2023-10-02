@@ -1,0 +1,16 @@
+.stylish-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Change to your desired background color */
+    color: #333133; /* Text color */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #0056b3;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
